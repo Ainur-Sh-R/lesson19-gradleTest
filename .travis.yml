@@ -4,7 +4,7 @@ install: true
 
 dist: trusty
 
-jdk: -oraclejdk8
+jdk: - oraclejdk8
 
 os: -linux
 
